@@ -1,0 +1,21 @@
+[0.730s] Invoking command in '/home/vboxuser/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/vboxuser/ros2_ws/build/my_robot_controller/prefix_override:/home/vboxuser/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vboxuser/ros2_ws/build/my_robot_controller/build --no-deps symlink_data --force
+[1.023s] running develop
+[1.030s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.030s]   warnings.warn(
+[1.210s] running egg_info
+[1.212s] writing my_robot_controller.egg-info/PKG-INFO
+[1.212s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[1.212s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[1.213s] writing requirements to my_robot_controller.egg-info/requires.txt
+[1.213s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[1.214s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.215s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.217s] running build_ext
+[1.217s] Creating /home/vboxuser/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[1.218s] Installing test_node script to /home/vboxuser/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.219s] 
+[1.219s] Installed /home/vboxuser/ros2_ws/build/my_robot_controller
+[1.219s] running symlink_data
+[1.219s] symbolically linking /home/vboxuser/ros2_ws/build/my_robot_controller/resource/my_robot_controller -> /home/vboxuser/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[1.219s] symbolically linking /home/vboxuser/ros2_ws/build/my_robot_controller/package.xml -> /home/vboxuser/ros2_ws/install/my_robot_controller/share/my_robot_controller
+[1.251s] Invoked command in '/home/vboxuser/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/vboxuser/ros2_ws/build/my_robot_controller/prefix_override:/home/vboxuser/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vboxuser/ros2_ws/build/my_robot_controller/build --no-deps symlink_data --force
